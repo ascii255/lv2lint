@@ -17,7 +17,6 @@
 #include <sys/wait.h>
 #include <sys/ptrace.h>
 #include <sys/mman.h>
-#include <linux/ptrace.h>
 #include <inttypes.h>
 #include <sched.h>
 
